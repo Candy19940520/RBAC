@@ -12,8 +12,6 @@ import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
 import org.junit.jupiter.api.Test;
 
 /**
- * master two
- * hot-fix two
  * @author Candy
  * @create 2021-05-11 11:04
  */
