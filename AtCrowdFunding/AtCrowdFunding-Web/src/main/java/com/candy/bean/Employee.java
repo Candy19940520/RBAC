@@ -10,10 +10,6 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 /**
- * <p>
- * 
- * </p>
- *  aaaa
  * @author Candy
  * @since 2021-06-07
  */
